@@ -825,7 +825,7 @@ export default function Details() {
                                                                         </svg>
                                                                     </span>
                                                                     <div>
-                                                                        USDC
+                                                                        DGT
                                                                     </div>
                                                                     <span>
                                                                         <svg
